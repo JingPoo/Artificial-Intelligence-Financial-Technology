@@ -1,2 +1,2 @@
-# Artificial_Intelligence_Financial_Technology
+# Artificial-Intelligence-Financial-Technology
 NCTU "Practices of Artificial Intelligence and Financial Technology" 
